@@ -4,13 +4,13 @@
         "log-chat-to-file": true
     },
 
-    "server": {
+    "server":"survival_S1.aternos.me",
         "host": "localhost",
         "port": 25565
     },
 
     "afkbot": {
-        "username": "AFKBot",
+        "username": "Venom",
         "password": "",
         "auth-method": "mojang"
     },
